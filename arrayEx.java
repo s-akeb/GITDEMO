@@ -6,7 +6,8 @@ public class arraysEx{
 
      students[0] = "Adam";
      System.out.println(students[0]);
-
+           
+     //array list
      students[1] = "Lucy";
      students[2] = "Emma";
      students[3] = "John";
